@@ -1,1 +1,1 @@
-# Deakte-Token
+# Deakte Smart Contract Token
